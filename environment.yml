@@ -39,6 +39,7 @@ dependencies:
       - leetcode-local-tester==0.6.0
       - requests==2.32.3
       - six==1.16.0
+      - sortedcontainers==2.4.0
       - soupsieve==2.6
       - urllib3==2.2.2
       - webencodings==0.5.1
