@@ -1,5 +1,6 @@
 import os
 import sys
+sys.path.append("../../../utils")
 # Get the current directory of the script (subpackage1)
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
